@@ -7,10 +7,10 @@
 developement in Flutter.
 
 - 👨‍💻 All of my projects are available at
-[https://github.com/shaurya127/](https://github.com/shaurya127/)
+[https://github.com/nilesh-855/](https://github.com/nilesh-855/)
 
 - 📫 How to reach me, drop an email at **nileshsprajapati855@gmail.com**
-- My CV website: https://shaurya127.github.io/shauryaofficial/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
